@@ -1,0 +1,16 @@
+DEAL SUMMARY - PROJECT ANCHOR (FICTIONAL TRAINING DATA)
+Status: Declined to quote - March 2025
+Transaction type: Full buy-out, GBP 900m premium
+Ceding insurer: UK insurer (name withheld in training data)
+Scheme profile: Retail sector, 6,800 members, 45% pensioner liabilities
+
+Reason declined:
+1. Deferred-heavy liability profile (55% by value) exceeded risk appetite for
+   deferred exposure in a single transaction at that time.
+2. Trustee demanded exclusivity before indicative pricing - contrary to policy.
+3. Data quality score from intake review was 61/100; the trustees were unwilling
+   to fund a data cleanse before pricing.
+
+Lesson: Establish deferred/pensioner split and exclusivity expectations before
+committing pricing resource. Data quality below 70/100 should trigger escalation
+to the Pricing Committee before any quote is released.

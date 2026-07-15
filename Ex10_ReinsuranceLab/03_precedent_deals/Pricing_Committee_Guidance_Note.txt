@@ -1,0 +1,17 @@
+PRICING COMMITTEE GUIDANCE NOTE 2026-01 (FICTIONAL TRAINING DATA)
+Single-transaction referral thresholds and triage rules
+
+1. Premium size: Transactions above GBP 750m require Board notification before
+   indicative pricing. Below GBP 750m, Pricing Committee approval suffices.
+2. Data quality: Intake data quality score below 70/100 requires Pricing Committee
+   escalation and a documented data remediation plan before quoting.
+3. Deferred exposure: Transactions with deferred liabilities above 50% by value
+   require explicit risk appetite sign-off.
+4. Counterparty screening: Any counterparty (ceding insurer, trustee, sponsor,
+   adviser) appearing on the internal watchlist as "review required" must be
+   cleared by Compliance before a quote is released. "Internal caution list"
+   entries require a documented mitigation note but do not block quoting.
+5. Exclusivity: No exclusivity is granted before indicative pricing without
+   Pricing Committee approval.
+6. House longevity basis: CMI 2024 projections, 1.25% long-term improvement rate.
+   Deviations from adviser bases must be quantified in the triage memo.

@@ -1,0 +1,19 @@
+DEAL SUMMARY - PROJECT CORAL (FICTIONAL TRAINING DATA)
+Status: Executed - August 2025
+Transaction type: Longevity swap converted to buy-in, GBP 520m premium
+Ceding insurer: Different UK ceding insurer (fictional: Harrogate Mutual)
+Scheme profile: Manufacturing sector, 3,400 members, 58% pensioner liabilities
+Benefit structure: RPI-linked capped at 5%, 50% spouse's pension
+
+Outcome: Won. Closest analogue to a mid-size UK manufacturing scheme in the book.
+
+Key lessons and sticking points:
+1. Manufacturing sector schemes in our book have shown slightly heavier mortality
+   than S3PA base tables suggest (sector adjustment of +2% applied to base mortality).
+2. Trustees required a collateral account with weekly valuation - operationally
+   demanding; ensure Ops signs off before final pricing.
+3. Premium size around GBP 500m is squarely within single-transaction appetite;
+   no Board referral was needed (threshold GBP 750m).
+
+Counterparty notes: Sterling Rowe Advisory ran the process - well-organised,
+strict on deadlines, penalised one reinsurer for a late round-one submission.

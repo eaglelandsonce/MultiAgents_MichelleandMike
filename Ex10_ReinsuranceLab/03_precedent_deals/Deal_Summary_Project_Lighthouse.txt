@@ -1,0 +1,22 @@
+DEAL SUMMARY - PROJECT LIGHTHOUSE (FICTIONAL TRAINING DATA)
+Status: Executed - December 2024
+Transaction type: Pensioner buy-in, GBP 340m premium
+Ceding insurer: Crownfield Insurance Company (UK)
+Scheme profile: UK engineering sector, 2,200 members, 70% pensioner liabilities
+Benefit structure: LPI 0/5 increases, 50% spouse's pension, GMP for pre-1997 service
+
+Outcome: Won at second-round pricing. Executed within 5 months of first quote.
+
+Key lessons and sticking points:
+1. Crownfield insisted on a broad data warranty. Legal negotiation on the warranty
+   consumed 6 weeks. Recommend raising warranty scope in round one term sheets.
+2. Spouse data was materially incomplete (12% of married members missing spouse DOB).
+   We priced with a conservative spouse-age assumption (male 3 years older) and
+   included a data true-up mechanism at 18 months. True-up worked well.
+3. GMP equalisation adjustments were not finalised at execution; a holdback of 1.5%
+   of premium was agreed.
+4. CMI projection basis debate: trustees' advisers used a higher long-term improvement
+   rate (1.5%) than our house view (1.25%). Bridging analysis was decisive in winning.
+
+Counterparty notes: Crownfield commercial team responsive but legal team slow.
+Trustee (independent chair) focused heavily on collateral structure.
